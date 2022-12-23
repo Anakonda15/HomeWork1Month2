@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		CD84FB712954DA9D0045DB4C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FB702954DA9D0045DB4C /* main.swift */; };
+		CD84FB782954DB460045DB4C /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FB772954DB460045DB4C /* Car.swift */; };
+		CD84FB7A2955C76B0045DB4C /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FB792955C76B0045DB4C /* Product.swift */; };
+		CD84FB7C2955C7930045DB4C /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FB7B2955C7930045DB4C /* Shop.swift */; };
+		CD84FB7E2955C7A30045DB4C /* Clients.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FB7D2955C7A30045DB4C /* Clients.swift */; };
+		CD84FB802955C7B70045DB4C /* Bank.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD84FB7F2955C7B70045DB4C /* Bank.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		CD84FB6D2954DA9D0045DB4C /* HomeWork1Month2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HomeWork1Month2; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD84FB702954DA9D0045DB4C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CD84FB772954DB460045DB4C /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		CD84FB792955C76B0045DB4C /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		CD84FB7B2955C7930045DB4C /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
+		CD84FB7D2955C7A30045DB4C /* Clients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Clients.swift; sourceTree = "<group>"; };
+		CD84FB7F2955C7B70045DB4C /* Bank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bank.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				CD84FB702954DA9D0045DB4C /* main.swift */,
+				CD84FB772954DB460045DB4C /* Car.swift */,
+				CD84FB792955C76B0045DB4C /* Product.swift */,
+				CD84FB7B2955C7930045DB4C /* Shop.swift */,
+				CD84FB7D2955C7A30045DB4C /* Clients.swift */,
+				CD84FB7F2955C7B70045DB4C /* Bank.swift */,
 			);
 			path = HomeWork1Month2;
 			sourceTree = "<group>";
@@ -120,7 +135,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD84FB782954DB460045DB4C /* Car.swift in Sources */,
 				CD84FB712954DA9D0045DB4C /* main.swift in Sources */,
+				CD84FB7A2955C76B0045DB4C /* Product.swift in Sources */,
+				CD84FB802955C7B70045DB4C /* Bank.swift in Sources */,
+				CD84FB7C2955C7930045DB4C /* Shop.swift in Sources */,
+				CD84FB7E2955C7A30045DB4C /* Clients.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
